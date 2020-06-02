@@ -1,0 +1,15 @@
+---
+exercises:
+  1_Operatory arytmetyczne:
+    max_points: 0
+    disabled: true
+  2_Dzielenie przez 0:
+    max_points: 0
+    disabled: true
+  "3_Por\xF3wnywanie zmiennych":
+    max_points: 0
+    disabled: true
+  4_Inkrementacja:
+    max_points: 0
+    disabled: true
+...

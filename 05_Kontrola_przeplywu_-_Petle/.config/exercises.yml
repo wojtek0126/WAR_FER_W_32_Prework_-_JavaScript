@@ -1,0 +1,33 @@
+---
+exercises:
+  1_Tworzenie tablicy - for:
+    max_points: 0
+    disabled: true
+  2_Liczby parzyste i nieparzyste - for:
+    max_points: 0
+    disabled: true
+  3_Tworzenie tablicy - while:
+    max_points: 0
+    disabled: true
+  4_Liczby parzyste i nieparzyste - while:
+    max_points: 0
+    disabled: true
+  "5_Wy\u015Bwietlanie napis\xF3w - while":
+    max_points: 0
+    disabled: true
+  "6_Wy\u015Bwietlanie tablicy":
+    max_points: 0
+    disabled: true
+  7_Tworzenie tablicy 2D:
+    max_points: 0
+    disabled: true
+  "8_Tabliczka mno\u017Cenia":
+    max_points: 0
+    disabled: true
+  9_Gwiazdki:
+    max_points: 0
+    disabled: true
+  10_break:
+    max_points: 0
+    disabled: true
+...

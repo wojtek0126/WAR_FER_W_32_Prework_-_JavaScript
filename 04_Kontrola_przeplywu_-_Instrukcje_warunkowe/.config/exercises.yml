@@ -1,0 +1,9 @@
+---
+exercises:
+  1_Ocena egzaminu:
+    max_points: 0
+    disabled: true
+  "2_Ocena s\u0142owna":
+    max_points: 0
+    disabled: true
+...

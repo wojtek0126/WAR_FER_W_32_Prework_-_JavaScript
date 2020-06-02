@@ -1,0 +1,9 @@
+---
+exercises:
+  1_Hello JS:
+    max_points: 0
+    disabled: true
+  2_Zmienne:
+    max_points: 0
+    disabled: true
+...
